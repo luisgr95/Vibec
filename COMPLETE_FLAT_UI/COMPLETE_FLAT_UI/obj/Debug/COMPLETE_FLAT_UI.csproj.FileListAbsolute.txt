@@ -1,0 +1,54 @@
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.config
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.pdb
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormListaClientes.resources
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormLogo.resources
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMantCliente.resources
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMembresia.resources
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMenuPrincipal.resources
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.Properties.Resources.resources
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csproj.GenerateResource.Cache
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.pdb
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.manifest
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.application
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe.manifest
+D:\Programacion\TUT\Tutoriales #2\Proyectos\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.application
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.config
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.pdb
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.manifest
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.application
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.pdb
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csprojResolveAssemblyReference.cache
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormListaClientes.resources
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormLogo.resources
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMantCliente.resources
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMembresia.resources
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMenuPrincipal.resources
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.Properties.Resources.resources
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csproj.GenerateResource.Cache
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe.manifest
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.application
+D:\Programacion\TUT\Tutoriales #2\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.Form1.resources
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.config
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe.manifest
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.application
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.exe
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\bin\Debug\COMPLETE_FLAT_UI.pdb
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csprojAssemblyReference.cache
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormListaClientes.resources
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormLogo.resources
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMantCliente.resources
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMembresia.resources
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.FormMenuPrincipal.resources
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.Properties.Resources.resources
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csproj.GenerateResource.cache
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe.manifest
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.application
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.exe
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.pdb
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\COMPLETE_FLAT_UI.Plotter.resources
+C:\Users\luisg\OneDrive\Escritorio\COMPLETE_FLAT_UI\COMPLETE_FLAT_UI\obj\Debug\acelerometro.Form1.resources

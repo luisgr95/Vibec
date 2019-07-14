@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\acelerometro\acelerometro\bin\Debug\acelerometro.exe.config
+C:\Users\dell\source\repos\acelerometro\acelerometro\bin\Debug\acelerometro.exe
+C:\Users\dell\source\repos\acelerometro\acelerometro\bin\Debug\acelerometro.pdb
+C:\Users\dell\source\repos\acelerometro\acelerometro\obj\Debug\acelerometro.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\acelerometro\acelerometro\obj\Debug\acelerometro.Form1.resources
+C:\Users\dell\source\repos\acelerometro\acelerometro\obj\Debug\acelerometro.Properties.Resources.resources
+C:\Users\dell\source\repos\acelerometro\acelerometro\obj\Debug\acelerometro.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\acelerometro\acelerometro\obj\Debug\acelerometro.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\acelerometro\acelerometro\obj\Debug\acelerometro.exe
+C:\Users\dell\source\repos\acelerometro\acelerometro\obj\Debug\acelerometro.pdb
+C:\Users\dell\source\repos\acelerometro\acelerometro\obj\Debug\acelerometro.csproj.ResolveComReference.cache
+C:\Users\luisg\OneDrive\Escritorio\acelerometro\acelerometro\obj\Debug\acelerometro.csprojAssemblyReference.cache
+C:\Users\luisg\OneDrive\Escritorio\acelerometro\acelerometro\obj\Debug\acelerometro.exe
+C:\Users\luisg\OneDrive\Escritorio\acelerometro\acelerometro\obj\Debug\acelerometro.pdb
